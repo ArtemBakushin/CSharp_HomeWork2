@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\с#ДЗ\Seminar002_HomeWork\bin\Debug\net8.0\Seminar002_HomeWork.exe
+C:\Users\user\Desktop\с#ДЗ\Seminar002_HomeWork\bin\Debug\net8.0\Seminar002_HomeWork.deps.json
+C:\Users\user\Desktop\с#ДЗ\Seminar002_HomeWork\bin\Debug\net8.0\Seminar002_HomeWork.runtimeconfig.json
+C:\Users\user\Desktop\с#ДЗ\Seminar002_HomeWork\bin\Debug\net8.0\Seminar002_HomeWork.dll
+C:\Users\user\Desktop\с#ДЗ\Seminar002_HomeWork\bin\Debug\net8.0\Seminar002_HomeWork.pdb
+C:\Users\user\Desktop\с#ДЗ\Seminar002_HomeWork\obj\Debug\net8.0\Seminar002_HomeWork.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\с#ДЗ\Seminar002_HomeWork\obj\Debug\net8.0\Seminar002_HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\с#ДЗ\Seminar002_HomeWork\obj\Debug\net8.0\Seminar002_HomeWork.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\с#ДЗ\Seminar002_HomeWork\obj\Debug\net8.0\Seminar002_HomeWork.AssemblyInfo.cs
+C:\Users\user\Desktop\с#ДЗ\Seminar002_HomeWork\obj\Debug\net8.0\Seminar002_HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\с#ДЗ\Seminar002_HomeWork\obj\Debug\net8.0\Seminar002_HomeWork.dll
+C:\Users\user\Desktop\с#ДЗ\Seminar002_HomeWork\obj\Debug\net8.0\refint\Seminar002_HomeWork.dll
+C:\Users\user\Desktop\с#ДЗ\Seminar002_HomeWork\obj\Debug\net8.0\Seminar002_HomeWork.pdb
+C:\Users\user\Desktop\с#ДЗ\Seminar002_HomeWork\obj\Debug\net8.0\Seminar002_HomeWork.genruntimeconfig.cache
+C:\Users\user\Desktop\с#ДЗ\Seminar002_HomeWork\obj\Debug\net8.0\ref\Seminar002_HomeWork.dll
